@@ -1,9 +1,10 @@
 **EXPLORATOY DATA ANALYSIS (EDA) ON THE INDIAN STARTUP FUNDING DATASET**
 
-##**Introduction**
+**Introduction**
+
 Data Analysis is the process of inspecting, cleaning, processing and modeling data to extract meaningful information to make decisions. This project uses a dataset about the Indian start-up companies and their information such as location, year founded, company name, etc. as well as their funding history from 2018 to 2021, To perform an exploratory data analysis and draw insights from useful information found. One of the great way for a good analysis work is to understand the business problem you are trying to solve. For a better understanding of the problem, create an objective or a scenario to work around. The dataset contains four different csv files with information about Indian startup funding separated by years. Each file has data with common files such as industry, round/series, amount, location and other about the company.
 
-##**Project Workflow**
+**Project Workflow**
 
 EDA is a data analysis technique used to understand all aspect of data. In this project the CRISP – DM framework was adopted as a guide. This framework includes
 Business Understanding: Understanding the needs of the company and the solutions requested from the data. This is where the objective of analyzing the data is formulated. This can be done by developing a hypothesis with some supportive questions as guidance. The hypothesis and questions below were formulated about the dataset to be a guide in the analysis.
@@ -51,7 +52,7 @@ Using the above assumption, each data file was cleaned and all missing values or
 
 involves manipulating the data to draw insights and conclusions. After the data was cleaned, all files were concatenated. Using the questions as guide to either affirm or refute the hypothesis.
 
-**Conclusion
+**Conclusion**
 
 Based on the analysis on the dataset, my analysis of the Indian startup funding reveals that startups in the tech space are more likely to receive funding. Specifically, I found a strong positive correlation between the number of startups operating within the technology sector and their likelihood for receiving funding based on the results obtained from question one and three which had the technology industry in the top five sectors and a startup from the same industry being the organization with the highest amount of funding. Aside generally the tech sector seemed to attract large amount of money. Therefore, it is safe to say that within India’s ecosystem, technology has proven itself as an attractive industry for investors looking to place their financial resources into startups.
 
